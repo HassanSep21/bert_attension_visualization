@@ -17,7 +17,7 @@
 ## 🛠 Tech Stack
 
 - **Languages:** Python
-- **Frameworks/Libraries** TensorFlow, Transformers (Hugging Face), BERT-base-uncased, PIL, NumPy, AutoTokenizer
+- **Frameworks/Libraries** TensorFlow, Transformers (Hugging Face), PIL, NumPy, AutoTokenizer
 - **Tools:** Git, VS Code
 ---
 
